@@ -12,3 +12,4 @@ var replaceDots = function(str) {
 }
 
 replaceDots("one.two.three");
+   
